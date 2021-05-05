@@ -3028,12 +3028,7 @@ input, select, textarea {
 		background: #125688;
 		color: white;
 	  }
-	  * {
-		margin: 0;
-		padding: 0;
-		
-		font-family: poppins, sans-serif;
-	  }
+
 
 	  .bodygal {
 		height: 100vh;
@@ -3173,62 +3168,6 @@ input, select, textarea {
 	.aligncenter {
 		text-align: center;
 	}
-	.gallery {
-		width: 100%;
-		margin: 0 0 0 400px;
-		border-radius: 3px;
-		overflow: hidden;
-		
-	  }
-	  .img-c {
-		width: 200px;
-		height: 300px;
-		float: left;
-		position: relative;
-		overflow: hidden;
-	  }
-	  
-	  .img-w {
-		position: absolute;
-		width: 100%;
-		height: 100%;
-		background-size: cover;
-		background-position: center;
-		cursor: pointer;
-		transition: transform ease-in-out 300ms;
-	  }
-	  
-	  .img-w img {
-		display: none;
-	  }
-	  
-	  .img-c {
-		 transition: width ease 400ms, height ease 350ms, left cubic-bezier(0.4, 0, 0.2, 1) 420ms, top cubic-bezier(0.4, 0, 0.2, 1) 420ms;
-	  }
-	  
-	  .img-c:hover .img-w {
-		transform: scale(1.1);
-		transition: transform cubic-bezier(0.4, 0, 0.2, 1) 450ms;
-	  }
-	  
-	  .img-c.active {
-		width: 50% !important;
-		height: 50% !important;
-		position: absolute;
-		z-index: 2;
-		
-	  }
-	  
-	  .img-c.postactive {
-		position: absolute;
-		z-index: 2;
-		pointer-events: none;
-	  }
-	  
-	  .img-c.active.positioned {
-		left: 25% !important;
-		top: 25% !important;
-		transition-delay: 50ms;
-	  }
+
 	  
 	  
