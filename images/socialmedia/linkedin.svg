@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="linkedin.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <defs
+     id="defs2">
+    <style
+       id="style833">.cls-1{fill:#262626;}.cls-2,.cls-3{fill:#fff;}.cls-3{fill-rule:evenodd;}.cls-4{fill:#929292;}.cls-5{fill:#25d366;}.cls-6{fill:#ee1d52;}.cls-7{fill:#69c9d0;}.cls-8{fill:#e52d27;}.cls-9{fill:#d41d20;}.cls-10{fill:#55acee;}.cls-11{fill:#3b445c;}.cls-12{fill:#ea4b24;}.cls-13{fill:#ffea00;}.cls-14{fill:#ff4500;}.cls-15{fill:#bd081c;}.cls-16{fill:#0076b2;}.cls-17{fill:#d50060;}.cls-18{fill:#dc4b3e;}.cls-19{fill:#3f91cb;}.cls-20{fill:#3a5a99;}.cls-21{fill:#ea4c89;}.cls-22{fill:#05cc47;}.cls-23{fill:#1d6fed;}</style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="474.71222"
+     inkscape:cy="-49.006391"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1267"
+     inkscape:window-height="1198"
+     inkscape:window-x="761"
+     inkscape:window-y="82"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="Linkedin-9"
+       data-name="Linkedin"
+       transform="matrix(0.26458333,0,0,0.26458333,19.98139,-65.633132)">
+      <circle
+         id="back-82"
+         data-name="back"
+         class="cls-4"
+         cx="147.5"
+         cy="462.5"
+         r="42.5" />
+      <g
+         id="Linkedin-10"
+         data-name="Linkedin">
+        <path
+           class="cls-2"
+           d="m 124.31,454.36 h 9.87 v 31.74 h -9.87 z m 4.94,-15.77 a 5.72,5.72 0 1 1 -5.72,5.72 5.72,5.72 0 0 1 5.72,-5.72"
+           id="path1350" />
+        <path
+           class="cls-2"
+           d="m 140.37,454.36 h 9.45 v 4.34 H 150 a 10.36,10.36 0 0 1 9.33,-5.12 c 10,0 11.83,6.57 11.83,15.11 v 17.41 h -9.86 v -15.43 c 0,-3.68 -0.06,-8.42 -5.12,-8.42 -5.06,0 -5.92,4 -5.92,8.15 v 15.7 h -9.85 z"
+           id="path1352" />
+      </g>
+    </g>
+  </g>
+</svg>
