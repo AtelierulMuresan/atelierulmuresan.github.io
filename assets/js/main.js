@@ -132,3 +132,24 @@ $(document).on('ready', function() {
     $('.cookie-overlay').removeClass('d-block').addClass('d-none');
   })
 })
+  </p>
+  <script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/2.0.1/js/toastr.min.js"></script>
+  <script language="javascript">
+      $(function() {
+          toastr.options = {
+             "closeButton": true,
+             "debug": false,
+             "positionClass": "toast-bottom-right",
+             "showDuration": "300",
+             "hideDuration": "1000",
+             "timeOut": "0",
+             "extendedTimeOut": "1000",
+             "showEasing": "swing",
+             "hideEasing": "linear",
+             "showMethod": "fadeIn",
+             "hideMethod": "fadeOut"
+          }
+    toastr.info("<p'>Cookies help us deliver our services. By using our services, you agree to our use of cookies. <a href='#' target='_new'>More details</a></p>");
+      });
+  </script>
