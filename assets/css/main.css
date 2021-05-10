@@ -3151,10 +3151,14 @@ input, select, textarea {
 		  left: 100%;
 		}
 	  }
-	  #prsi3 {
-		  float:left;
+	  #prsi33 {
+		  float:center;
 		  margin: 0 0 0 5px;
 	  }
+	  #prsi3 {
+		float:left;
+		margin: 0 0 0 5px;
+	}
 	  #scanimg {
 		float:middle;
 		margin: 0 0 0 5px;
@@ -3377,4 +3381,47 @@ transform: translateZ(-110px) rotateY(180deg);
 	top: 0 !important;
 	transition-delay: 50ms;
   }
-
+  div.gallery {
+	border: 1px solid #ccc;
+  }
+  
+  div.gallery:hover {
+	border: 1px solid #777;
+  }
+  
+  div.gallery img {
+	width: 100%;
+	height: auto;
+  }
+  
+  div.desc {
+	padding: 15px;
+	text-align: center;
+  }
+  
+ 
+  
+  .responsiveimg {
+	padding: 0 6px;
+	float: left;
+	width: 24.99999%;
+  }
+  
+  @media only screen and (max-width: 700px) {
+	.responsiveimg {
+	  width: 49.99999%;
+	  margin: 6px 0;
+	}
+  }
+  
+  @media only screen and (max-width: 500px) {
+	.responsiveimg {
+	  width: 100%;
+	}
+  }
+  
+  .clearfix:after {
+	content: "";
+	display: table;
+	clear: both;
+  }
