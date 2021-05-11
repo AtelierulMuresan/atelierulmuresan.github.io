@@ -3155,6 +3155,10 @@ input, select, textarea {
 		  float:center;
 		  margin: 0 0 0 5px;
 	  }
+	  #scaleimgauto {
+    		  max-width:100%;
+    		  height:auto;
+          }
 	  #prsi3 {
 		float:left;
 		margin: 0 0 0 5px;
